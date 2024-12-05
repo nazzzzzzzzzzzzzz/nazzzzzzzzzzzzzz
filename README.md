@@ -1,11 +1,34 @@
-<img align="left" src="https://i.imgur.com/hfA0FmY.png">
+```bash
+$ whoami
+[naz]
 
-### Hey!
+$ naz about.txt
+Full-stack developer passionate about clean code and efficient solutions.
+Currently mastering the art of [serverless architectures].
 
-I'm **Naz**, a full stack developer with a strong passion for all things open source. I also interested in ios-jailbreaking.
+$ ls ./skills
+Languages:   JavaScript TypeScript Python Go
+Frontend:    React Vue.js Svelte
+Backend:     Node.js Express Django FastAPI
+Database:    PostgreSQL MongoDB Redis
+DevOps:      Docker Kubernetes AWS
 
-[![pgp](https://img.shields.io/badge/%3Enaz.exe-green
-)](https://img.shields.io/badge/%3Enaz.exe-green
-) [![views](https://komarev.com/ghpvc/?username=nazzzzzzzzzzzzzz&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/nazzzzzzzzzzzzzz)
+$ git log --author="[nazzzzzzzzzzzzzz]" --oneline --graph --all
+* f7eb3e1 Refactored authentication system for better security
+* a2c4d6e Implemented real-time data synchronization
+* 8b9c0f2 Optimized database queries, improved performance by 30%
 
-<br>
+$ naz ./contact-info.json
+{
+  "email": "naz@.com",
+  "linkedin": "https://www.linkedin.com/in/naz",
+  "twitter": "@naz"
+}
+
+$ echo "it is what it is."
+
+  /\___/\
+ (  o o  )
+ /   V   \
+/(  \^/  )\
+ ^^ d b ^^
