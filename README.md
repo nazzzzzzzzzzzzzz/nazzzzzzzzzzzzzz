@@ -4,7 +4,6 @@ $ whoami
 
 $ naz about.txt
 Full-stack developer passionate about clean code and efficient solutions.
-Currently mastering the art of [serverless architectures].
 
 $ ls ./skills
 Languages:   JavaScript TypeScript Python Go
