@@ -20,9 +20,7 @@ $ git log --author="[nazzzzzzzzzzzzzz]" --oneline --graph --all
 
 $ naz ./contact-info.json
 {
-  "email": "naz@.com",
-  "linkedin": "https://www.linkedin.com/in/naz",
-  "twitter": "@naz"
+  "email": "nazfrom@proton.me",
 }
 
 $ echo "it is what it is."
